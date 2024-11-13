@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780588034664",
+    "project_id": "test-db-d7660",
+    "storage_bucket": "test-db-d7660.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780588034664:android:600aee887b2acd1255a9dd",
+        "android_client_info": {
+          "package_name": "com.aaron.dagloria.testapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQXenz0IanzU-TpBIq03KNraYLLfIFg4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
